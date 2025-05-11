@@ -1,0 +1,1 @@
+I used this script back when I was using Windows 10. Now I have my own laptop and I use Linux, so I don't get Wi-Fi problems. If you want less problems in general, switch to Linux. You can just google "How to switch to Linux". There are many tutorials online. I will not be maintaining this script anymore since it's been years since I used it.
